@@ -18,5 +18,5 @@ Reset Option: Easily clear input and try again.
 
 This project highlights:
 - Programming Logic: Demonstrates string manipulation and conditional checks.
-- Frontend Development: Displays your ability to build interactive web applications.
+- Frontend Development: Displays the ability to build interactive web applications.
 - Attention to Detail: Shows proficiency in handling edge cases like spaces, punctuation, and case insensitivity.
